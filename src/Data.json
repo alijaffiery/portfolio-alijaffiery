@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "title": "Pehnawa The House Of Brand",
+    "description": [
+      "Displays seasonal collections (hats, sneakers, jackets) and categories for women and men.",
+      "Click to see related stock details",
+      "Add items to the cart from the product page",
+      "The cart shows added items, total quantity, and total bill.",
+      "Users can add more items or remove existing ones as needed.",
+      "Access the homepage anytime via the home icon in the header"
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "LiveStock",
+    "description": [
+      "Showcases available livestock categories (e.g., Qurbani, Aqeeqa, Sadka)",
+      "Click on a category to view detailed information about each animal.",
+      "Users can add animals to their cart from the product details page",
+      "Review added animals, total quantity, and total cost; update or remove items as needed.",
+      "Secure payment options and cash-on-delivery for purchasing livestock"
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Best Match Application",
+    "description": [
+      "Displays a form where users enter their names and select gender (male or female)",
+      "The application calculates and displays a matching percentage based on the entered information.",
+      "Shows the calculated percentage on the next screen",
+      "Interactive interface for users to input their details and receive results.",
+      "Smooth transition from the initial screen to the result screen."
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Student QR Code (Learning Management System)",
+    "description": [
+      "Separate portals for teachers, students, & admin",
+      "Students scan a QR code via a mobile app to mark attendance",
+      "Admin handle student & teacher enrollments, assignments, quizzes, & lectures.",
+      "Students follow their class schedule based on their roll numbers.",
+      "System notifications for both teachers and students."
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Star Wars",
+    "description": [
+      "Implement and validate forms",
+      "Manage tasks with local storage",
+      "Simulate API and redirect",
+      "Fetch and paginate Star Wars characters",
+      "Display detailed character info in a modal.",
+      "Use Redux for API calls and state management",
+      "Manage tasks with local storage",
+      "Create, edit, and delete tasks with local storage for persistence"
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "Library Management System",
+    "description": [
+      "Users can browse and borrow books of their interest",
+      "Users can bookmark books for future reference",
+      "Admins can monitor all activities of borrowers and librarians",
+      "Customer can check the rating of the seller",
+      "Implement payment methods for overdue fines",
+      "Users can manage their borrowing history and requests"
+    ]
+  }
+]
